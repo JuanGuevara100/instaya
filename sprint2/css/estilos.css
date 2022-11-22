@@ -94,6 +94,29 @@
         border: solid #253062;
         border-radius: 5px;}
 
+    .link-registro{
+        background-color: #253062;
+        color: #fff;
+        width: 120px;
+        font-size: 18px;
+        padding: 5px;
+        text-align: center;
+        margin: 30px;
+        border-style: none;
+        border-radius: 10px;
+    }
+
+    .barra-navegacion{
+        background-color: #253062;
+        color: #fff;
+        width: 120px;
+        font-size: 18px;
+        padding: 5px;
+        text-align: center;
+        margin: 3px;
+        border-style: none;
+        border-radius: 10px;
+    }
 /*a:link, a:visited{
     text-align: center;
     background-color: #253062;
